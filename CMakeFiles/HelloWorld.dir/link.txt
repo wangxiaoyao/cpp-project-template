@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/sqlite/lib CMakeFiles/HelloWorld.dir/src/addFun.c.o CMakeFiles/HelloWorld.dir/src/main.c.o  -o bin/HelloWorld 
