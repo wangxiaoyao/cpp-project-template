@@ -1,3 +1,0 @@
-/Users/wangxiaoyao/code-xy/2-1OS/3linux/7-1IDE/3cmake项目自动化构建/cpp-project-template/CMakeFiles/rebuild_cache.dir
-/Users/wangxiaoyao/code-xy/2-1OS/3linux/7-1IDE/3cmake项目自动化构建/cpp-project-template/CMakeFiles/edit_cache.dir
-/Users/wangxiaoyao/code-xy/2-1OS/3linux/7-1IDE/3cmake项目自动化构建/cpp-project-template/CMakeFiles/HelloWorld.dir
